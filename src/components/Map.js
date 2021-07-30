@@ -3,7 +3,7 @@ import GoogleMapReact from "google-map-react";
 
 import LocationMarker from "./LocationMarker";
 import LocationInfoBox from "./LocationInfoBox";
-import Icon from "@iconify/react";
+// import Icon from "@iconify/react";
 
 const Map = ({ eventData, center, zoom }) => {
 

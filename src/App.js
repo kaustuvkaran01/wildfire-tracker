@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 // import './App.css';
 import {useState,useEffect} from 'react';
-import axios from 'axios';
+// import axios from 'axios';
 import Map from './components/Map';
 import Loader from './components/Loader';
 import Header from './components/Header';
